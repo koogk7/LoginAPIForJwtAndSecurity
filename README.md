@@ -107,3 +107,8 @@
      ```
 
      
+     
+ ## Reference
+ https://velopert.com/2389
+ https://daddyprogrammer.org/post/636/springboot2-springsecurity-authentication-authorization/
+ https://www.logicbig.com/how-to/code-snippets/jcode-jpa-elementcollection.html
